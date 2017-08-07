@@ -1,0 +1,25 @@
+.banner{
+    height: 300px;
+    overflow: hidden
+}
+
+.banner img{
+    height: 300px;
+}
+
+.top-text{
+    margin-left: 30px;
+}
+
+.top-text ul li:first-child{
+    font-size: 30px;
+    width: 650px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.top-text li{
+    font-size: 18px;
+    margin: 7px auto;
+}

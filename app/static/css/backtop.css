@@ -1,0 +1,14 @@
+.all-backtop{
+  position: fixed;
+  right: 10px;
+  bottom:50px;
+  background-color: blue;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  display: none;
+  cursor: pointer;
+}

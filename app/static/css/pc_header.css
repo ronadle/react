@@ -1,0 +1,12 @@
+.logo img{
+    width: 50px;
+}
+
+.menu{
+  margin-left: 5px;
+}
+
+
+.ant-menu-horizontal > .ant-menu-item.header-login{
+  float: right;
+}
